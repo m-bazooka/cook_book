@@ -1,2 +1,2 @@
 # cook_book
-An app to show homemade recipes 
+An app to show homemade recipes [ongoing]
