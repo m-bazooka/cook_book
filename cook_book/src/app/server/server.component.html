@@ -1,1 +1,5 @@
-<p>I am the Server and I am finally Working!</p>
+<p 
+    [ngStyle]="{backgroundColor: getColour()}"
+    [ngClass]="{online: serverStatus === 'online'}">
+        I am the Server {{ serverName }} and I am {{ getServerStatus() }}!
+</p>
