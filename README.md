@@ -1,2 +1,3 @@
 # cook_book
-An app to show homemade recipes [ongoing]
+
+An Angular app to show homemade recipes [ongoing project]
